@@ -10,7 +10,7 @@
     </div>
       <div class="Box-body px-5 pb-5">
        <h3>
-<img align='right' src='https://media1.tenor.com/images/piske-usagi-pc-laptop-computer-gif-15998845' width='140'>
+<img align='right' src='piske-usagi.gif' width='140'>
     
 <P> 🎓 Sou formada em Relações Internacionais, mas foi com o tempo — e com o Canva, acredite! — que descobri, por hobby, minha paixão por criar layouts, explorar cores, tipografia e pensar na experiência de quem vê e interage.
 </br>
