@@ -33,8 +33,8 @@
 
   <!-- Linha de cima: GitHub Stats + GitHub Streak -->
   <p>
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=mmarianatrindade&show_icons=true&theme=omni&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-    <img height="180" src="https://github-readme-streak-stats.herokuapp.com?user=mmarianatrindade&theme=omni" alt="GitHub Streak" />
+    <img height="150" src="https://github-readme-stats.vercel.app/api?username=mmarianatrindade&show_icons=true&theme=omni&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+    <img height="150" src="https://github-readme-streak-stats.herokuapp.com?user=mmarianatrindade&theme=omni" alt="GitHub Streak" />
   </p>
   
 <hr style="border: none; height: 2px; background-color:#c22557; width: 100%;">
