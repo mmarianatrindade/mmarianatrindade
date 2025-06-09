@@ -1,10 +1,12 @@
-</br>
 <div>
 <h1 align="center">
   <strong style = "color:#c22557;" >👩🏻‍💻 Desenvolvedora Design UX/UI 👩🏻‍💻  </strong>
 </h1>
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF00F6&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Welcome+to+my+profile!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
+  </a>
 </div>
-
 <div id="readme" class="Box md js-code-block-container Box--responsive">
     <div class="Box-header d-flex flex-items-center flex-justify-between bg-white border-bottom-0">
     </div>
@@ -12,10 +14,10 @@
        <h3>
 <img align='right' src='https://media.tenor.com/q9s_XmoedE8AAAAj/piske-usagi.gif' width='200'>
     
-<P> 🎓 Sou formada em Relações Internacionais, mas foi com o tempo — e com o Canva, acredite! — que descobri, por hobby, minha paixão por criar layouts, explorar cores, tipografia e pensar na experiência de quem vê e interage.
-<P>
+<p small> 🎓 Sou formada em Relações Internacionais, mas foi com o tempo — e com o Canva, acredite! — que descobri, por hobby, minha paixão por criar layouts, explorar cores, tipografia e pensar na experiência de quem vê e interage.
+<p>
 ✨ Foi assim que conheci o universo de UX e UI Design, e não demorou para eu me encantar. Hoje, sigo em transição de carreira com foco total em criar soluções que unam design, tecnologia e experiência do usuário.
-<P>
+<p>
 🚀 Em breve, darei um novo passo nessa jornada: vou iniciar a Gradução de WEB DESIGN na FIAP, mergulhando de vez no mundo da tecnologia e da inovação.</P>
 
 <hr style="border: none; height: 2px; background-color:#c22557; width: 100%;">
@@ -41,11 +43,6 @@
   <p>
     <img height="150" src="https://github-readme-stats.vercel.app/api?username=mmarianatrindade&show_icons=true&theme=omni&include_all_commits=true&count_private=true" alt="GitHub Stats" />
     <img height="150" src="https://github-readme-streak-stats.herokuapp.com?user=mmarianatrindade&theme=omni" alt="GitHub Streak" />
-  </p>
-
-  <!-- Linha de baixo: Top Languages -->
-  <p>
-    <img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmarianatrindade&layout=compact&langs_count=8&theme=omni" alt="Top Languages" />
   </p>
 </div>
 
