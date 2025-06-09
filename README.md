@@ -10,12 +10,12 @@
     </div>
       <div class="Box-body px-5 pb-5">
        <h3>
-<img align='right' src='piske-usagi.gif' width='140'>
+<img align='right' src='https://media.tenor.com/q9s_XmoedE8AAAAj/piske-usagi.gif' width='200'>
     
 <P> 🎓 Sou formada em Relações Internacionais, mas foi com o tempo — e com o Canva, acredite! — que descobri, por hobby, minha paixão por criar layouts, explorar cores, tipografia e pensar na experiência de quem vê e interage.
-</br>
+<P>
 ✨ Foi assim que conheci o universo de UX e UI Design, e não demorou para eu me encantar. Hoje, sigo em transição de carreira com foco total em criar soluções que unam design, tecnologia e experiência do usuário.
-</br>
+<P>
 🚀 Em breve, darei um novo passo nessa jornada: vou iniciar a Gradução de WEB DESIGN na FIAP, mergulhando de vez no mundo da tecnologia e da inovação.</P>
 
 <hr style="border: none; height: 2px; background-color:#c22557; width: 100%;">
