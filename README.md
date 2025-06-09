@@ -1,1 +1,74 @@
+</br>
+<h1 align="center">
+  <strong style="color:#c22557;">👩🏻‍💻 Mariana Trindade — Desenvolvedora Design UX/UI </strong>
+   <img src="https://tenor.com/pt-BR/view/peach-goma-pc-keyboard-gif-14749703951530672101" width="40" alt="emoji gatinho digitando">
+</h1>
+</br>
+<hr style="border: none; height: 2px; background-color:#c22557; width: 100%;">
+</br>
+- Tenho 22 anos
+</br>
+🎓 Sou formada em Relações Internacionais, mas foi com o tempo — e com o Canva, acredite! — que descobri, por hobby, minha paixão por criar layouts, explorar cores, tipografia e pensar na experiência de quem vê e interage.
+
+✨ Foi assim que conheci o universo de UX e UI Design, e não demorou para eu me encantar. Hoje, sigo em transição de carreira com foco total em criar soluções que unam design, tecnologia e experiência do usuário.
+
+🚀 Em breve, darei um novo passo nessa jornada: vou iniciar a Gradução de WEB DESIGN na FIAP, mergulhando de vez no mundo da tecnologia e da inovação.
+<hr style="border: none; height: 2px; background-color:#c22557; width: 100%;">
+<div align="center">
+<h1 align="center">
+  <strong style="color:#c22557;">Estou me aperfeiçoando em:</strong>
+</h1>
+<div>
+</br>
+<div align="center">
+ <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40"/>
+ <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="40" height="40"/>
+   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="40" height="40"/>
+    <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40"/>
+    <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" width="40" height="40"/>
+</br>
+<hr style="border: none; height: 2px; background-color:#c22557; width: 100%;">
+
+</br>
+<div>
+<div align="center">
+
+  <!-- Linha de cima: GitHub Stats + GitHub Streak -->
+  <p>
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=mmarianatrindade&show_icons=true&theme=omni&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+
+<p>
+    <img height="180" src="https://github-readme-streak-stats.herokuapp.com?user=mmarianatrindade&theme=omni" alt="GitHub Streak" />
+  </p>
+
+<hr style="border: none; height: 2px; background-color:#c22557; width: 100%;">
+
+  <!-- Linha de baixo: Top Languages -->
+  <p>
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmarianatrindade&layout=compact&langs_count=8&theme=omni" alt="Top Languages" />
+  </p>
+</div>
+
+<hr style="border: none; height: 2px; background-color:#c22557; width: 100%;">
+
+
+<h1 align="center">
+  <strong style="color:#c22557;"> Vamos conectar! </strong>
+</h1>
+
+<div>
+<a href="https://instagram.com/mmariana.trindade" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href = "mailto:marianatrindaders@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/mariana-rt" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<a href="https://www.linkedin.com/in/mariana-rt" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white" target="_blank"></a>     
+</div>
+  
+</div>
+
+</details>
+
+<br>
+<br>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6fa3fa&height=100&section=footer"/>
 
