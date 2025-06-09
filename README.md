@@ -1,12 +1,10 @@
 </br>
+<div>
 <h1 align="center">
   <strong style="color:#c22557;">👩🏻‍💻 Mariana Trindade — Desenvolvedora Design UX/UI </strong>
-   <img src="https://tenor.com/pt-BR/view/peach-goma-pc-keyboard-gif-14749703951530672101" width="40" alt="emoji gatinho digitando">
 </h1>
+</div>
 </br>
-<hr style="border: none; height: 2px; background-color:#c22557; width: 100%;">
-</br>
-- Tenho 22 anos
 </br>
 🎓 Sou formada em Relações Internacionais, mas foi com o tempo — e com o Canva, acredite! — que descobri, por hobby, minha paixão por criar layouts, explorar cores, tipografia e pensar na experiência de quem vê e interage.
 
@@ -15,12 +13,12 @@
 🚀 Em breve, darei um novo passo nessa jornada: vou iniciar a Gradução de WEB DESIGN na FIAP, mergulhando de vez no mundo da tecnologia e da inovação.
 <hr style="border: none; height: 2px; background-color:#c22557; width: 100%;">
 <div align="center">
+  <div>
 <h1 align="center">
+  <div align="center">
   <strong style="color:#c22557;">Estou me aperfeiçoando em:</strong>
 </h1>
-<div>
 </br>
-<div align="center">
  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40"/>
  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="40" height="40"/>
    <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="40" height="40"/>
@@ -36,11 +34,9 @@
   <!-- Linha de cima: GitHub Stats + GitHub Streak -->
   <p>
     <img height="180" src="https://github-readme-stats.vercel.app/api?username=mmarianatrindade&show_icons=true&theme=omni&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-
-<p>
     <img height="180" src="https://github-readme-streak-stats.herokuapp.com?user=mmarianatrindade&theme=omni" alt="GitHub Streak" />
   </p>
-
+  
 <hr style="border: none; height: 2px; background-color:#c22557; width: 100%;">
 
   <!-- Linha de baixo: Top Languages -->
@@ -48,9 +44,6 @@
     <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmarianatrindade&layout=compact&langs_count=8&theme=omni" alt="Top Languages" />
   </p>
 </div>
-
-<hr style="border: none; height: 2px; background-color:#c22557; width: 100%;">
-
 
 <h1 align="center">
   <strong style="color:#c22557;"> Vamos conectar! </strong>
